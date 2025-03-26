@@ -1,7 +1,2 @@
-os
-colorama
-requests
-random
-time
-platform
-getpass
+colorama==0.4.6
+requests==2.31.0
