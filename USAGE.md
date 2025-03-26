@@ -9,6 +9,6 @@
 For general help type 98
 
 ## Start
-To start using the tool type python checkit.py
+To start using the tool type 'python checkit.py'
 
 © Syrox
