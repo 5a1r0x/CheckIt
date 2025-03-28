@@ -1,14 +1,18 @@
-# CheckIt Usage Guide
+# <p align='center'>CheckIt | Usage Guide</p>
 
-## Commands
-1. Select an option 
+## ♟ • Commands
+``` bash
+1. Select an option
 2. Enter the required data
 3. Start using the tool
+```
 
-## Help
-For general help type 98
+## ☘️ • Help
+``` bash
+98
+```
 
-## Start
-To start using the tool type 'python checkit.py'
-
-© Syrox
+## 🎯 • Start
+``` bash
+python CheckIt.py
+```
